@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Figura",
+            "type": "dart",
+            "request": "launch",
+            "program": "bin/figura/main.dart"
+        }
+    ]
+}
